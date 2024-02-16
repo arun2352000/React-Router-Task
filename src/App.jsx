@@ -130,7 +130,7 @@ const App = () => {
     },
     {
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2023/11/Top-10-Data-Science-Tools-1-1200x628.png",
+        "https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Top-High-Paying-Non-Coding-Jobs-in-Data-Science.webp",
       corse: "DS",
       header: "Top 10 Data Science Tools in 2024",
       content:
@@ -160,7 +160,7 @@ const App = () => {
     },
     {
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-1200x675.png",
+        "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-What-Is-Hacking_-Types-of-Hacking-More.webp",
       corse: "CS",
       header: "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
       content:
@@ -170,7 +170,7 @@ const App = () => {
     },
     {
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif",
+        "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-What-Is-Hacking_-Types-of-Hacking-More.webp",
       corse: "CS",
       header:
         "What is Cybersecurity? Importance and its uses & the growing challenges in 2023!",
@@ -181,7 +181,7 @@ const App = () => {
     },
     {
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1-1200x675.png",
+        "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-What-Is-Hacking_-Types-of-Hacking-More.webp",
       corse: "CS",
       header: "8 Different Types of Cybersecurity and Threats Involved",
       content:
@@ -191,7 +191,7 @@ const App = () => {
     },
     {
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif",
+        "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-What-Is-Hacking_-Types-of-Hacking-More.webp",
       corse: "CS",
       header:
         "Is coding required for cybersecurity? If yes, how crucial is coding for cybersecurity?",
@@ -202,7 +202,7 @@ const App = () => {
     },
     {
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2023/04/javascript-animated-image-1200x675.jpg",
+        "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-What-Is-Hacking_-Types-of-Hacking-More.webp",
       corse: "Career",
       header:
         "Master JavaScript Frontend Roadmap: From Novice to Expert [2024]",
@@ -223,7 +223,7 @@ const App = () => {
     },
     {
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2023/07/feature-image-UIUX-Designer-Roles-Responsibilities-Job-Description.jpg",
+        "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-What-Is-Hacking_-Types-of-Hacking-More.webp",
       corse: "Career",
       header: "UI/UX Designer Job Description and Roles & Responsibilities",
       content:
