@@ -268,7 +268,8 @@ const App = () => {
       <BrowserRouter>
         
           <Navbar />
-         
+        <br />
+        <br />
         <Routes>
           <Route path="/" element={<Home cardData={cardData} />} />
           <Route path="/FSD" element={<FSD cardData={cardData} />} />
